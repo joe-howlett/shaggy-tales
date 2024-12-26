@@ -18,3 +18,5 @@ Push to GitHub:
 npx quartz sync --no-pull
 ```
 
+Quartz Documentation
+https://quartz.jzhao.xyz/

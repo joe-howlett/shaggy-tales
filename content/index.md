@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Joe's Prison Blog
 ---
+- Poems
+- Characters
+- Happenings
+- Reflections
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+
