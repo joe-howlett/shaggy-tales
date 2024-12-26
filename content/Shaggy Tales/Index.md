@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - Publish Obsidian with Quartz & Github
   sceneTemplate: chapter.md
   ignoredFiles: []
 ---
